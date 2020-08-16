@@ -1,0 +1,9 @@
+*.pyc
+__pycache__
+venv/
+test.sqlite3
+*.log
+data/user.json
+.ipynb_checkpoints
+temp
+*.ipynb
